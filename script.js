@@ -2,13 +2,13 @@ const translations = {
     en: {
         title: "Welcome",
         description: "This is my website.",
-        button: "Login"
+        button: "medicine"
     },
 
     te: {
         title: "స్వాగతం",
         description: "ఇది నా వెబ్‌సైట్.",
-        button: "లాగిన్"
+        button: "మందు"
     }
 };
 
