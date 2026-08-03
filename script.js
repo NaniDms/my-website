@@ -1,10 +1,10 @@
 const translations = {
     en: {
-        button: "medicine"
+        button: "medicine,laddus,thayari"
     },
 
     te: {
-        button: "మందు"
+        button: "మందు,లాడుస్,తహారి"
     }
 };
 
