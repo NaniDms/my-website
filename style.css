@@ -6,7 +6,7 @@ button{
     border-radius: 8px;
     cursor: pointer; 
     font-size: 18px;
-    margin: 50px;
+    margin-bottom: 50px;
 }
 button.hover{
     background-color: #0056b3;
