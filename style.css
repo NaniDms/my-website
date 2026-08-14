@@ -14,3 +14,25 @@ button.hover{
 body{
     background-image:url(https://c8.alamy.com/comp/3E06H9A/a-pencil-drawing-of-a-hen-with-chicks-and-a-rooster-this-isolated-illustration-is-perfect-for-themed-cards-invitations-labels-restaurant-menus-3E06H9A.jpg) ;
 }
+@media (max-width: 768px) {
+
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+}
